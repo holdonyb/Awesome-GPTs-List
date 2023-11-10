@@ -16,37 +16,34 @@ Our GPTs are organized into different categories based on their primary function
 ### Educational and Support
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![Math Mentor Avatar](https://files.oaiusercontent.com/file-vRLKTttMrbx27eEJWEBVKJwt) | Math Mentor | ChatGPT | Helps parents with their kids' math homework | [Link](https://chat.openai.com/g/g-ENhijiiwK-math-mentor) |
-| ![Tech Support Advisor Avatar](https://files.oaiusercontent.com/file-soqNFMszjoxK9d3BFD3rAGA5) | Tech Support Advisor | ChatGPT | Offers step-by-step tech support | [Link](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor) |
+| <img src="resources/math-mentor.png" width="42" height="42"> | Math Mentor | ChatGPT | Helps parents with their kids' math homework | [Link](https://chat.openai.com/g/g-ENhijiiwK-math-mentor) |
+| <img src="resources/TechSupport.jpg" width="42" height="42"> | Tech Support Advisor | ChatGPT | Offers step-by-step tech support | [Link](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor) |
 
 ### Gaming and Entertainment
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![Game Time Avatar](https://files.oaiusercontent.com/file-JxYoHzuJQ2TXHBYy6UGC4Xs8) | Game Time | ChatGPT | Explains board games and card games | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time) |
-| ![Hot Mods Avatar](https://files.oaiusercontent.com/file-wOlP7l6RXZJ4YvZq3pUAqLOY) | Hot Mods | ChatGPT | Modifies images into wild versions | [Link](https://chat.openai.com/g/g-fTA4FQ7wj-hot-mods) |
+| <img src="resources/Game Time.png" width="42" height="42"> | Game Time | ChatGPT | Explains board games and card games | [Link](https://chat.openai.com/g/g-Sug6mXozT-game-time) |
+| <img src="resources/HotMods.png" width="42" height="42"> | Hot Mods | ChatGPT | Modifies images into wild versions | [Link](https://chat.openai.com/g/g-fTA4FQ7wj-hot-mods) |
 
 ### Lifestyle and Practical Uses
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![The Negotiator Avatar](https://files.oaiusercontent.com/file-MjvVb8L9Se5PdSC1gMLopCHh) | The Negotiator | ChatGPT | Helps with personal advocacy and negotiation | [Link](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator) |
-| ![Laundry Buddy Avatar](https://files.oaiusercontent.com/file-A2WHofOnsYQ8FF6nnlvOVXCv) | Laundry Buddy | ChatGPT | Advises on all things laundry-related | [Link](https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy) |
-| ![Sous Chef Avatar](https://files.oaiusercontent.com/file-w4J3XQ5bnIbssMVHKXZskSJB) | Sous Chef | ChatGPT | Provides recipes based on available ingredients | [Link](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef) |
-| ![Mocktail Mixologist Avatar](https://files.oaiusercontent.com/file-bRpq5C5YwRMtQGO7xFa3nT40) | Mocktail Mixologist | ChatGPT | Creates mocktail recipes | [Link](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist) |
+| <img src="resources/negotiator.png" width="42" height="42"> | The Negotiator | ChatGPT | Helps with personal advocacy and negotiation | [Link](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator) |
+| <img src="resources/laundry-buddy.png" width="42" height="42"> | Laundry Buddy | ChatGPT | Advises on all things laundry-related | [Link](https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy) |
+| <img src="resources/SousChef.jpg" width="42" height="42"> | Sous Chef | ChatGPT | Provides recipes based on available ingredients | [Link](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef) |
+| <img src="resources/mocktails.png" width="42" height="42"> | Mocktail Mixologist | ChatGPT | Creates mocktail recipes | [Link](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist) |
 
 ### Creative Writing and Communication
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![Creative Writing Coach Avatar](https://files.oaiusercontent.com/file-KSheuuQR8UjcxzFjjS
-
-fjfEOP) | Creative Writing Coach | ChatGPT | Offers feedback to improve writing skills | [Link](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach) |
-| ![Sticker Whiz Avatar](https://files.oaiusercontent.com/file-UtRoJnMx0EAW2VEELuXfONt1) | Sticker Whiz | ChatGPT | Creates custom sticker designs | [Link](https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz) |
-| ![genz 4 meme Avatar](https://files.oaiusercontent.com/file-m64BWxDs6cs9o6xYn33ujZe1) | genz 4 meme | ChatGPT | Assists with understanding and creating current memes | [Link](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) |
+| <img src="resources/creative-writing.png" width="42" height="42"> | Creative Writing Coach | ChatGPT | Offers feedback to improve writing skills | [Link](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach) |
+| <img src="resources/sticker-wizard.png" width="42" height="42"> | Sticker Whiz | ChatGPT | Creates custom sticker designs | [Link](https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz) |
+| <img src="resources/genz 4 meme.png" width="42" height="42"> | genz 4 meme | ChatGPT | Assists with understanding and creating current memes | [Link](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) |
 
 ### Classic Versions
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![ChatGPT Classic Avatar](https://files.oaiusercontent.com/file-i9IUxiJyRubSIOooY5XyfcmP) | ChatGPT Classic | ChatGPT | Latest version of GPT-4 with no additional capabilities | [Link](https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic) |
-
+| <img src="resources/ChatGPT Classic.jpg" width="42" height="42"> | ChatGPT Classic | ChatGPT | Latest version of GPT-4 with no additional capabilities | [Link](https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic) |
 
 ## How to Contribute:
 
