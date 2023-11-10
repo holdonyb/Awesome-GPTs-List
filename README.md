@@ -1,5 +1,7 @@
 # Awesome-GPTs-List
 
+ ![banner image](resources/banner.webp)
+ 
 ## Introduction
 Welcome to the Awesome-GPTs-List! This repository is a collection of unique and innovative GPT agents created by various developers. Each agent offers a distinct set of capabilities, ranging from creative endeavors to practical utilities.
 
