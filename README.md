@@ -9,7 +9,7 @@ Our GPTs are organized into different categories based on their primary function
 ### Creative and Artistic
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![DALL·E](https://files.oaiusercontent.com/file-SxYQO0Fq1ZkPagkFtg67DRVb) | DALL·E | ChatGPT | Turns imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
+| ![DALL·E](	https://files.oaiusercontent.com/file-SxYQO0Fq1ZkP…ig=pLlQh8oUktqQzhM09SDDxn5aakqFuM2FAPptuA0mbqc%3D) | DALL·E | ChatGPT | Turns imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
 | ![Cosmic Dream](https://files.oaiusercontent.com/file-M12eDkWHmobmgj5mhcWkMMVI) | Cosmic Dream | ChatGPT | Visionary painter of digital wonder | [Link](https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream) |
 | ![Coloring Book Hero](https://files.oaiusercontent.com/file-MQvRHYzyhxlHQxjUk1bOIjaO) | Coloring Book Hero | ChatGPT | Turns ideas into whimsical coloring book pages | [Link](https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero) |
 
