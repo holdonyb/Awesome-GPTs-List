@@ -9,7 +9,7 @@ Our GPTs are organized into different categories based on their primary function
 ### Creative and Artistic
 | Avatar | Name | Creator | Description | Link |
 |--------|------|---------|-------------|------|
-| ![DALL·E](	https://files.oaiusercontent.com/file-SxYQO0Fq1ZkP…ig=pLlQh8oUktqQzhM09SDDxn5aakqFuM2FAPptuA0mbqc%3D) | DALL·E | ChatGPT | Turns imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
+| ![DALL·E](https://files.oaiusercontent.com/file-JxYoHzuJQ2TXHBYy6UGC4Xs8?se=2123-10-13T00%3A46%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0bba883-a507-42dd-acfd-211509efd97c.png&sig=jZeFDXgC4ZbNC8mVNuQK7zeKS7ssRCh5QTlqa81WJEM%3D) | DALL·E | ChatGPT | Turns imagination into imagery | [Link](https://chat.openai.com/g/g-2fkFE8rbu-dall-e) |
 | ![Cosmic Dream](https://files.oaiusercontent.com/file-M12eDkWHmobmgj5mhcWkMMVI) | Cosmic Dream | ChatGPT | Visionary painter of digital wonder | [Link](https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream) |
 | ![Coloring Book Hero](https://files.oaiusercontent.com/file-MQvRHYzyhxlHQxjUk1bOIjaO) | Coloring Book Hero | ChatGPT | Turns ideas into whimsical coloring book pages | [Link](https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero) |
 
